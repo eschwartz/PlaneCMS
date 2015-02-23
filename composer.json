@@ -1,0 +1,12 @@
+{
+    "name": "eschwartz/plane-cms",
+    "description": "A simple CMS",
+    "authors": [
+        {
+            "name": "Edan Schwartz",
+            "email": "edanschwartz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
