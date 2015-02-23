@@ -8,5 +8,11 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"PlaneCms\\": "src",
+			"PlaneCmsTest\\": "test"
+		}
+	}
 }
